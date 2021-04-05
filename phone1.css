@@ -1,0 +1,448 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-color:white;
+	
+}
+
+#contenedor{
+width: 100%;
+
+
+}
+
+header{
+width: 100%;
+height: 100px;
+float: left;
+	}
+#img1{
+	width: 380px;
+	height: 280px;
+	
+	display:block;
+    margin:auto;
+
+}
+
+#carouselExampleIndicators1{
+display: none;
+}
+.carousel slide{
+	display: none;
+}
+
+.carousel-inner{
+	display: none;
+}
+
+
+nav{
+width: 100%;
+height:330px;
+float:left;
+font-size: 25px;
+text-align: center;
+	
+
+
+}
+
+#titulo1{
+	
+	margin-top: 90px;
+	position: absolute;
+	width: 100%;
+	background-color: aqua;
+	border-radius: 25px 0px 25px 0px;
+	
+}
+     /*Se quita el subrayado yse coloca un color a la letra*/
+#titulo1 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	    
+	
+	}
+	/*Al pasar el mouse se coloca un color a la letra*/
+#titulo1 a:hover {
+color: red;
+
+	}
+
+#titulo2{
+	
+	margin-top: 140px;
+	position: absolute;
+	width: 100%;
+	background-color: yellow;
+	border-radius: 25px 0px 25px 0px;
+}
+
+#titulo2 a{
+	    color: black;
+		
+	    text-decoration: none;
+	}
+
+#titulo2 a:hover {
+color: red;
+
+	}
+
+#titulo3{
+	
+	
+	margin-top: 190px;
+	position: absolute;
+	width: 100%;
+	background-color:cadetblue;
+	border-radius: 25px 0px 25px 0px;
+}
+
+#titulo3 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo3 a:hover {
+color: red;
+
+	}
+
+
+#titulo4{
+	
+	margin-top: 240px;
+	position: absolute;
+	width: 100%;
+	background-color:darkorange;
+	border-radius: 25px 0px 25px 0px;
+	
+}
+
+#titulo4 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo4 a:hover {
+color: red;
+
+	}
+
+#titulo5{
+	
+	margin-top: 290px;
+	position: absolute;
+    width: 100%;
+	background-color:darkseagreen;
+	border-radius: 25px 0px 25px 0px;
+	
+}
+
+
+#titulo5 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo5 a:hover {
+color: red;
+
+	}
+
+section{
+width: 100%;
+height:2300px;
+background-color: white;
+float:left;
+
+}
+
+#img13{
+	display: none;
+}
+
+#titulo13{
+	font-size: 20px;
+	margin-top: 40px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: center;
+}
+
+#titulo14{
+	font-size: 20px;
+	margin-top: 40px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: center;
+	font-weight: bold;
+}
+
+#titulo15{
+	font-size: 50px;
+	margin-top: -90px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: justify;
+	
+}
+#titulo15{
+	font-size: 22px;
+	margin-top: 30px;
+	margin-left: 7%;
+	margin-right: 7%;
+	text-align: justify;
+	
+	
+}
+
+
+#img8{
+	width: 100%;
+	height: 250px;
+	margin-top: 70px;
+}
+
+#img9{
+	width: 100%;
+	height: 450px;
+	margin-top: -30px;
+	position: relative;
+	
+	
+}
+
+#titulo16{
+	font-size: 22px;
+	margin-top: -380px;
+	margin-left: 19%;
+	margin-right: 19%;
+	text-align: center;
+	position: absolute;
+	color: white;
+}
+
+#titulo17{
+	font-size: 22px;
+	margin-top: -315px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: justify;
+	position: absolute;
+	color: white;
+}
+
+#img14{
+	display: none;
+	
+}
+
+
+#titulo18{
+	font-size: 22px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: center;
+	position: absolute;
+	color: black;
+}
+
+#titulo19{
+	font-size: 22px;
+	margin-top: 50px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: justify;
+	position: absolute;
+	color: black;
+}
+
+#img10{
+	width: 100%;
+	height: 350px;
+	margin-top: 210px;
+}
+
+#img11{
+	width: 100%;
+	height: 650px;
+	margin-top: -30px;
+	position: relative;
+}
+#titulo20{
+	font-size: 22px;
+	margin-left: 19%;
+	margin-top: -560px;
+	margin-right: 19%;
+	text-align: center;
+	position: absolute;
+	color: white;
+}
+
+#titulo21{
+	font-size: 22px;
+	margin-left: 9%;
+	margin-top: -500px;
+	margin-right: 9%;
+	text-align: justify;
+	position: absolute;
+	color: white;
+}
+#img12{
+	width: 75%;
+	height: 220px;
+	margin-top: -450px;
+	position: relative;
+}
+
+#img15{
+	display: none;
+}
+
+
+#titulo22{
+	display: none;
+}
+
+#titulo23{
+	display: none;
+	
+}
+
+#titulo24{
+	display: none;
+}
+
+#titulo25{
+	display: none;
+	
+}
+
+footer{
+width: 100%;
+height:750px;
+background-image:url(negro.jpg);
+float:left;	
+	display: flex;
+}
+
+#titulo8{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: center;
+}
+
+#titulo9{
+	font-size: 15px;
+	margin-top: 185px;
+	color: gray;
+	text-align: center;
+	}
+
+#titulo10{
+	font-size: 15px;
+	margin-top: 39px;
+	color: gray;
+	
+	
+	text-align: center;
+}
+#titulo11{
+	font-size: 18px;
+	margin-top: 19px;
+	color: gray;
+	text-align: center;
+	
+}
+#img4{
+	width: 195px;
+	height: 140px;
+	display:block;
+    margin:auto;
+}
+#titulo12{
+	font-size: 22px;
+	margin-top: 3289px;
+	color: gray;
+	margin-left: 41%;
+	position:absolute;
+}
+#img5{
+	width: 30px;
+	height: 30px;
+	margin-top: 90px;
+	margin-left: -70%;
+	float: left;
+	display: flex;
+	position: absolute;
+	}
+#img5:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+#img6{
+	width: 30px;
+	height: 30px;
+	margin-top: 90px;
+	margin-left: 0%;
+	float: left;
+	display: flex;
+ position: absolute;
+}
+#img6:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+#img7{
+	width: 30px;
+	height: 30px;
+	margin-top: 90px;
+	margin-left: 70%;
+	float: left;
+	display: flex;
+    position: absolute;
+}
+#img7:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+#texto50 a{
+	    color: gold;
+		display:block;
+	    text-decoration: none;
+	    margin-left:30px;
+}
+
+#texto51{
+	    color: gold;
+		display:block;
+	    text-decoration: none;
+	margin-top:-34px;
+         margin-left: 43px;  
+}
+
+

@@ -1,0 +1,325 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:white;
+}
+header{
+width: 40%;
+height: 100px;
+float: left;
+	}
+#img1{
+	width: 380px;
+	height: 280px;
+	margin-left: 100px;
+}
+
+#carouselExampleIndicators1{
+display: none;
+}
+.carousel slide{
+	display: none;
+}
+
+.carousel-inner{
+	display: none;
+}
+
+nav{
+width: 60%;
+height: 100px;
+float: right;
+	background-color: white;
+}
+
+#titulo1{
+	color: black;
+	font-size: 25px;
+	margin-left: 5%;
+	margin-top: 70px;
+	position: absolute;
+}
+     /*Se quita el subrayado yse coloca un color a la letra*/
+#titulo1 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+	/*Al pasar el mouse se coloca un color a la letra*/
+#titulo1 a:hover {
+color: yellow;
+background-color: aqua;
+
+	}
+
+#titulo2{
+	color:black;
+	font-size: 25px;
+	margin-left: 14%;
+	margin-top: 70px;
+	position: absolute;
+}
+
+#titulo2 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo2 a:hover {
+color: yellow;
+background-color: gold;
+	}
+
+#titulo3{
+	color: black;
+	font-size: 25px;
+	margin-left: 25%;
+	margin-top: 70px;
+	position: absolute;
+}
+
+#titulo3 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo3 a:hover {
+color: yellow;
+background-color: cadetblue;
+	}
+
+
+#titulo4{
+	color: black;
+	font-size: 25px;
+	margin-left: 35%;
+	margin-top: 70px;
+	position: absolute;
+	
+}
+
+#titulo4 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo4 a:hover {
+color: yellow;
+background-color: darkorange;
+	}
+
+#titulo5{
+	color: black;
+	font-size: 25px;
+	margin-left: 45%;
+	margin-top: 70px;
+	position: absolute;
+	
+}
+#titulo5 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	     
+	}
+
+#titulo5 a:hover {
+background-color: darkseagreen;
+color: yellow;
+	}
+section{
+width: 100%;
+height:4390px;
+float:left;
+font-size: 25px;
+text-align: center;
+}
+
+#titulo13{
+	font-size: 25px;
+	margin-top: 100px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: justify;
+}
+
+
+	#img20{
+	width: 70%;
+	margin:30px auto;
+	display:block;
+	
+}
+
+#img21{
+	
+	margin:30px auto;
+	display:block;
+	
+}
+#img22{
+	width: 60%;
+	margin:30px auto;
+	display:block;
+	
+
+}
+#img23{
+	
+	margin:30px auto;
+	display:block;
+	
+}
+#img24{
+	width: 43%;
+	
+	margin:30px auto;
+	display:block;
+}
+#img25{
+	
+	margin:30px auto;
+	display:block;
+}
+#img26{
+	
+	margin:30px auto;
+	display:block;
+}
+
+#img27{
+	
+	margin:30px auto;
+	display:block;
+}
+
+#img28{
+	
+	margin:30px auto;
+	display:block;
+}
+
+footer{
+width: 100%;
+height:600px;
+background-image: url(negro1.jpg);
+float:left;	
+	display: flex;
+}
+
+#titulo8{
+	font-size: 30px;
+	margin-top: 60px;
+	margin-left: 9%;
+	margin-right: 9%;
+}
+
+#titulo9{
+	font-size: 30px;
+	margin-top: 150px;
+	color: gray;
+	text-align: center;
+	
+}
+
+#titulo10{
+	font-size: 17px;
+	margin-top: 39px;
+	color: gray;
+	margin-left: 9%;
+	margin-right: 9%;
+	width: 15%;
+	text-align: justify;
+}
+
+#titulo11{
+	font-size: 20px;
+	margin-top: -170px;
+	color: gray;
+	margin-left: 39%;
+	margin-right: 19%;
+	position: absolute;
+}
+#img4{
+	width: 255px;
+	height: 200px;
+	margin-top: -139px;
+	margin-left: 37%;
+}
+
+#titulo12{
+	font-size: 40px;
+	margin-top: 4940px;
+	color: gray;
+	margin-left: 49%;
+	margin-right: 19%;
+	position: absolute;
+}
+
+#img5{
+	width: 30px;
+	height: 30px;
+	margin-top: -300px;
+	margin-left: 69%;
+	}
+#img5:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+
+#img6{
+	width: 30px;
+	height: 30px;
+	margin-top: -124px;
+	margin-left: 22%;
+ position: absolute;
+}
+#img6:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+#img7{
+	width: 30px;
+	height: 30px;
+	margin-top: -124px;
+	margin-left: 56%;
+ position: absolute;
+}
+#img7:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+#texto50 a{
+	    color: gold;
+		display:block;
+	    text-decoration: none;
+	margin-top:-30px;
+         margin-left: -506px;  
+}
+
+
+
+#texto51{
+color:gold;
+margin-left: -480px;  
+margin-top:-60px;
+
+}

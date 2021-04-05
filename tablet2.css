@@ -1,0 +1,334 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:white;
+}
+header{
+width: 100%;
+height: 180px;
+background-color: white;
+float: left;
+	display: flex;
+	}
+#img1{
+	width: 380px;
+	height: 280px;
+	
+	display:block;
+    margin:auto;
+
+}
+
+#carouselExampleIndicators1{
+display: none;
+}
+.carousel slide{
+	display: none;
+}
+
+.carousel-inner{
+	display: none;
+}
+
+nav{
+width: 100%;
+height: 100px;
+float: left;
+	background-color: white;
+	display: flex;
+}
+
+#titulo1{
+	font-size: 25px;
+	margin-left: 5%;
+	margin-top: 70px;
+	width: 100%;
+	position: absolute;
+}
+     /*Se quita el subrayado yse coloca un color a la letra*/
+#titulo1 a{
+	    color: black;
+	    display:block;
+	    text-decoration: none;
+	}
+	/*Al pasar el mouse se coloca un color a la letra*/
+
+#titulo1 a:hover {
+color: red;
+}
+#titulo2{
+	color:black;
+	font-size: 25px;
+	margin-left: 20%;
+	margin-top: 70px;
+	position: absolute;
+}
+
+#titulo2 a{
+	    color: black;
+	    display:block;
+	    text-decoration: none;
+	}
+
+#titulo2 a:hover {
+color: red;
+
+	}
+
+#titulo3{
+	color: black;
+	font-size: 25px;
+	margin-left: 40%;
+	margin-top: 70px;
+	position: absolute;
+}
+
+#titulo3 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo3 a:hover {
+color: red;
+
+	}
+
+
+#titulo4{
+	color: black;
+	font-size: 25px;
+	margin-left: 60%;
+	margin-top: 70px;
+	position: absolute;
+	
+}
+
+#titulo4 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo4 a:hover {
+color: red;
+
+	}
+
+#titulo5{
+	color: black;
+	font-size: 25px;
+	margin-left: 80%;
+	margin-top: 70px;
+	position: absolute;
+	
+}
+#titulo5 a{
+	    color: black;
+		display:block;
+	    text-decoration: none;
+	}
+
+#titulo5 a:hover {
+color: red;
+
+	}
+
+section{
+width: 100%;
+height:3990px;
+float:left;
+
+background-color: white;
+display: flex;	
+text-align: center;
+}
+#titulo13{
+	font-size: 25px;
+	margin-top: 70px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: justify;
+}
+
+	#img20{
+	width: 70%;
+	height: 350px;
+	margin:30px auto;
+	display:block;
+	
+
+}
+
+#img21{
+	width: 45%;
+	
+	margin:30px auto;
+	display:block;
+	
+}
+
+#img22{
+	width: 60%;
+	height: 400px;
+	margin:30px auto;
+	display:block;
+	
+
+}
+#img23{
+	
+	margin:30px auto;
+	display:block;
+	
+
+}
+
+#img24{
+	width: 43%;
+	height: 300px;
+	margin:30px auto;
+	display:block;
+}
+#img25{
+	
+	margin:30px auto;
+	display:block;
+}
+
+#img26{
+	width: 80%;
+	margin:30px auto;
+	display:block;
+}
+
+#img27{
+	width: 80%;
+	margin:30px auto;
+	display:block;
+}
+#img28{
+	
+	margin:30px auto;
+	display:block;
+}
+
+footer{
+width: 100%;
+height:600px;
+background-image: url(negro1.jpg);
+float:left;	
+	display: flex;
+}
+
+#titulo8{
+	font-size: 30px;
+	margin-top: 60px;
+	margin-left: 9%;
+	margin-right: 9%;
+	text-align: center;
+}
+#titulo9{
+	font-size: 28px;
+	margin-top: 150px;
+	color: gray;
+	text-align: center;
+	
+}
+#titulo10{
+	font-size: 17px;
+	margin-top: 39px;
+	color: gray;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 45%;
+	text-align: justify;
+}
+#titulo11{
+
+	display: none;
+}
+#img4{
+	width: 250px;
+	height: 180px;
+	margin-top: -125px;
+	margin-left: 60%;
+}
+
+#titulo12{
+	font-size: 25px;
+	margin-top: 4725px;
+	color: gray;
+	margin-left: 72%;
+	position: absolute;
+	
+}
+#img5{
+	width: 30px;
+	height: 30px;
+        margin-top: 40%;
+        margin-left: -292%;
+	}
+
+#img5:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+
+
+#img6{
+	width: 30px;
+	height: 30px;
+        margin-top: 40%;
+        margin-left: 18%;
+	}
+
+#img6:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+
+
+#img7{
+	width: 30px;
+	height: 30px;
+        margin-top: 40%;
+        margin-left: 18%;
+	}
+
+#img7:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+#texto50 a{
+	    color: gold;
+		display:block;
+	    text-decoration: none;
+	margin-top:-160px;
+         margin-left: -20px;  
+}
+
+#texto51{
+	    color: gold;
+		display:block;
+	    text-decoration: none;
+	margin-top:-37px;
+         margin-left: -5px;  
+}
+
+
